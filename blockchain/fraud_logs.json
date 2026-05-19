@@ -1,0 +1,92 @@
+[
+    {
+        "tx_hash": "e78113e40d4e7357d7c0a10208845875b9b06c006268cc2eda5ce68a4cde0954",
+        "fraud_hash": "191128763c65aab0698494180ab99de01220c9c7bc8f02f753442d1f9e1edbd9",
+        "amount": 59.0,
+        "confidence": 0.9993045330047607,
+        "block_number": 1,
+        "status": "CONFIRMED",
+        "timestamp": "2026-05-19 12:11:12"
+    },
+    {
+        "tx_hash": "e4944541b02faa4f10aee87ccf45187eb9af2af747c3f8722873721d5caddb5f",
+        "fraud_hash": "605983ec73b32a9468d0778cd26f65b52fcc819d312e859aabcc1686a07e1504",
+        "amount": 1.0,
+        "confidence": 0.9463891386985779,
+        "block_number": 2,
+        "status": "CONFIRMED",
+        "timestamp": "2026-05-19 12:11:12"
+    },
+    {
+        "tx_hash": "20e16a4b9f685b7f3e784938b875f1f0781b07cf427c965e2c92559e4f97b85f",
+        "fraud_hash": "37600eeb37046170685f78641ffdbce3f1bca22eb75b2d86c02776a3705057e0",
+        "amount": 1.0,
+        "confidence": 0.9986422657966614,
+        "block_number": 3,
+        "status": "CONFIRMED",
+        "timestamp": "2026-05-19 12:11:12"
+    },
+    {
+        "tx_hash": "201ca76f226aacbfaa8fd1fb842d99fd7936807883039c06a326595a9df5c513",
+        "fraud_hash": "fb11f2f3090d9bc7124fdf2bb1efc1b15c87859797d996460edb4d18dbc79c8c",
+        "amount": 1.0,
+        "confidence": 0.9987441301345825,
+        "block_number": 4,
+        "status": "CONFIRMED",
+        "timestamp": "2026-05-19 12:11:12"
+    },
+    {
+        "tx_hash": "670489363d0c95b969911a56ee2c0e4efc3abc473d55622800ae03042ed2fbc7",
+        "fraud_hash": "fd3f18a44611dc920c1011b660b60660b302c7280828feb55d59ee63cab494f0",
+        "amount": 1.0,
+        "confidence": 0.9969032406806946,
+        "block_number": 5,
+        "status": "CONFIRMED",
+        "timestamp": "2026-05-19 12:11:12"
+    },
+    {
+        "tx_hash": "113c2738bd0cb65d2734647f128f57a4ce1b0899cf8ba26b59a395ef9f521645",
+        "fraud_hash": "b16a447dd4e7a758745dc842874da9a6a32ef07919d1114c389e6bd507cefaf3",
+        "amount": 1.0,
+        "confidence": 0.9968985319137573,
+        "block_number": 6,
+        "status": "CONFIRMED",
+        "timestamp": "2026-05-19 12:11:12"
+    },
+    {
+        "tx_hash": "f04b66713abeee6986f0c0b214674c2a1cc493815a1fcf74674d414d8c31ca23",
+        "fraud_hash": "c568f8f1373af13b805cc035d3c4a641de81694d3029d87a852e7f4e67fb08d9",
+        "amount": 1.0,
+        "confidence": 0.99937903881073,
+        "block_number": 7,
+        "status": "CONFIRMED",
+        "timestamp": "2026-05-19 12:11:12"
+    },
+    {
+        "tx_hash": "f3c30c6f9375af5126d2e2a6a589bd6f6fb50955fb9ee09219118a5a85484446",
+        "fraud_hash": "27796ceb20c1caf5dfade5fc3bc9abfced59dd544b69d3bfba68d41e88c0fdd5",
+        "amount": 1.0,
+        "confidence": 0.9993185997009277,
+        "block_number": 8,
+        "status": "CONFIRMED",
+        "timestamp": "2026-05-19 12:11:12"
+    },
+    {
+        "tx_hash": "0b146e8380daebae939b4d42e0b6b09485d7dbb4ea89999c4f46a1795e93e507",
+        "fraud_hash": "ad46f128f51820fa15687346f9f140421c6e620a23a0bf46b1d4d1d01d28ac6d",
+        "amount": 1.0,
+        "confidence": 0.9993404746055603,
+        "block_number": 9,
+        "status": "CONFIRMED",
+        "timestamp": "2026-05-19 12:11:12"
+    },
+    {
+        "tx_hash": "b03cd7d432107aa0a58bff09a85e559eec0be701806dfd86b923c8cf359dc76a",
+        "fraud_hash": "221d5981268752eb5189432af9c9538efc303e0eefe1a3e401ef933244082ebf",
+        "amount": 1.0,
+        "confidence": 0.9993815422058105,
+        "block_number": 10,
+        "status": "CONFIRMED",
+        "timestamp": "2026-05-19 12:11:12"
+    }
+]
