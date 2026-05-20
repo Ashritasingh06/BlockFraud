@@ -1,4 +1,6 @@
 # 🔐 BlockFraud — AI-Powered Fraud Detection System
+## 🌐 Live Demo
+👉 **[Click Here to View Live Project](https://blockfraud-tgcvcnktfxjgtpr64pcj6r.streamlit.app/)
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python)
 ![ML](https://img.shields.io/badge/ML-XGBoost-red?style=for-the-badge)
